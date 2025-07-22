@@ -1,0 +1,63 @@
+const Partners = ({ dark }) => {
+  return (
+    <div className="devman_tm_section">
+      <div className="devman_tm_partners">
+        <div className="container">
+          <div className="partners_inner">
+            <ul>
+              <li>
+                <div className="list_inner">
+                  <img
+                    className="wow fadeIn"
+                    data-wow-duration="1s"
+                    src={`img/partners/${dark ? "light" : "dark"}/OIP.JPEG`}
+                    alt=""
+                  />
+                  <a className="devman_tm_full_link" href="#" />
+                </div>
+              </li>
+              <li>
+                <div className="list_inner">
+                  <img
+                    className="wow fadeIn"
+                    data-wow-duration="1s"
+                    data-wow-delay="0.2s"
+                    src={`img/partners/${dark ? "light" : "dark"}/tata.JPEG`}
+                    alt=""
+                  />
+                  <a className="devman_tm_full_link" href="#" />
+                </div>
+              </li>
+              <li>
+                <div className="list_inner">
+                  <img
+                    className="wow fadeIn"
+                    data-wow-duration="1s"
+                    data-wow-delay="0.4s"
+                    src={`img/partners/${dark ? "light" : "dark"}/bhel.JPEG`}
+                    alt=""
+                  />
+                  <a className="devman_tm_full_link" href="#" />
+                </div>
+              </li>
+              <li>
+                <div className="list_inner">
+                  <img
+                    className="wow fadeIn"
+                    data-wow-duration="1s"
+                    data-wow-delay="0.6s"
+                    src={`img/partners/${dark ? "light" : "dark"}/OIP.JPEG`}
+                    alt=""
+                  />
+                  <a className="devman_tm_full_link" href="#" />
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default Partners;
