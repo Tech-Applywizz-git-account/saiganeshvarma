@@ -123,7 +123,7 @@ const Contact = () => {
                       </div>
                       <div className="short">
                         <h3>Address</h3>
-                        <span>Chicago</span>
+                        <span>United States</span>
                       </div>
                     </div>
                   </li>
@@ -135,7 +135,7 @@ const Contact = () => {
                       <div className="short">
                         <h3>Email</h3>
                         <span>
-                          <a href="#">siruvurisaiganeshvarma@gmail.com</a>
+                          <a href="#">siruvuri.sgv@gmail.com</a>
                         </span>
                       </div>
                     </div>
@@ -147,7 +147,7 @@ const Contact = () => {
                       </div>
                       <div className="short">
                         <h3>Phone</h3>
-                        <span>+1 779-212-4901</span>
+                        <span>+1 3128549293</span>
                       </div>
                     </div>
                   </li>

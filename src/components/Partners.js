@@ -10,7 +10,19 @@ const Partners = ({ dark }) => {
                   <img
                     className="wow fadeIn"
                     data-wow-duration="1s"
-                    src={`img/partners/${dark ? "light" : "dark"}/OIP.JPEG`}
+                    data-wow-delay="0.6s"
+                    src={`img/partners/${dark ? "light" : "dark"}/vignan-logo.png`}
+                    alt=""
+                  />
+                  <a className="devman_tm_full_link" href="https://vignanits.ac.in/" />
+                </div>
+              </li>
+              <li>
+                <div className="list_inner">
+                  <img
+                    className="wow fadeIn"
+                    data-wow-duration="1s"
+                    src={`img/partners/${dark ? "light" : "dark"}/OIP.jpeg`}
                     alt=""
                   />
                   <a className="devman_tm_full_link" href="#" />
@@ -25,7 +37,7 @@ const Partners = ({ dark }) => {
                     src={`img/partners/${dark ? "light" : "dark"}/tata.jpeg`}
                     alt=""
                   />
-                  <a className="devman_tm_full_link" href="#" />
+                  <a className="devman_tm_full_link" href="https://www.tata.com/business/tcs" />
                 </div>
               </li>
               <li>
@@ -37,19 +49,7 @@ const Partners = ({ dark }) => {
                     src={`img/partners/${dark ? "light" : "dark"}/bhel.jpeg`}
                     alt=""
                   />
-                  <a className="devman_tm_full_link" href="#" />
-                </div>
-              </li>
-              <li>
-                <div className="list_inner">
-                  <img
-                    className="wow fadeIn"
-                    data-wow-duration="1s"
-                    data-wow-delay="0.6s"
-                    src={`img/partners/${dark ? "light" : "dark"}/OIP.JPEG`}
-                    alt=""
-                  />
-                  <a className="devman_tm_full_link" href="#" />
+                  <a className="devman_tm_full_link" href="https://www.bhel.com/" />
                 </div>
               </li>
             </ul>

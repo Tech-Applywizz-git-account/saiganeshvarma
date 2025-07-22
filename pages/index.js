@@ -39,9 +39,9 @@ const Index = () => {
       <Portfolio />
       <Skills />
       <Service />
+      <Partners />
       <Process />
       <Testimonials />
-      <Partners />
       <Contact />
       <Blog />
       <Copyright />
