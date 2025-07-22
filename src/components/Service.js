@@ -10,7 +10,7 @@ const serviceData = [
     img: "img/service/1.jpg",
     description: [
       "Ganesh is a top-tier web design agency known for creating visually stunning and results-driven websites. Our award-winning team builds sites that reflect your brand, boost conversions, and increase revenue .",
-      "In today’s digital-first world, your website is your brand’s first impression—Devman ensures it’s a powerful one. With over 50 design awards and $2.4B+ in client-driven revenue, we craft custom websites that don’t just look great—they grow your business"
+      "In today’s digital-first world, your website is your brand’s first impression—Ganesh ensures it’s a powerful one. With over 50 design awards and $2.4B+ in client-driven revenue, we craft custom websites that don’t just look great—they grow your business"
     ],
   },
   {

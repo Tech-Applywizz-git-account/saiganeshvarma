@@ -28,7 +28,7 @@ const Index = () => {
   return (
     <Layout>
       <Head>
-        <title>Devman | Home</title>
+        <title>Ganesh Portfolio | Home</title>
       </Head>
       <MobileHeader />
       <Header />
