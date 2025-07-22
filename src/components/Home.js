@@ -6,9 +6,9 @@ const homeData = {
   designation: "Full Stack Java Developer ",
   address: "Chicago",
   img: "img/hero/4.png",
-  bio: "Full Stack Java Developer with 3+ years of experience building scalable web applications and cloud-native solutions using Spring Boot, React.js, and AWS.",
+  bio: "Software Engineer &  Java Developer with 6+ years of experience building scalable web applications and cloud-native solutions using Spring Boot, React.js, and AWS.",
   numberOfProject: 9,
-  numberofyear: 3,
+  numberofyear: 6,
 };
 
 const Home = () => {

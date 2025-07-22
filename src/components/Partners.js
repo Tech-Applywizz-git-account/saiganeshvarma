@@ -22,7 +22,7 @@ const Partners = ({ dark }) => {
                     className="wow fadeIn"
                     data-wow-duration="1s"
                     data-wow-delay="0.2s"
-                    src={`img/partners/${dark ? "light" : "dark"}/tata.JPEG`}
+                    src={`img/partners/${dark ? "light" : "dark"}/tata.jpeg`}
                     alt=""
                   />
                   <a className="devman_tm_full_link" href="#" />
@@ -34,7 +34,7 @@ const Partners = ({ dark }) => {
                     className="wow fadeIn"
                     data-wow-duration="1s"
                     data-wow-delay="0.4s"
-                    src={`img/partners/${dark ? "light" : "dark"}/bhel.JPEG`}
+                    src={`img/partners/${dark ? "light" : "dark"}/bhel.jpeg`}
                     alt=""
                   />
                   <a className="devman_tm_full_link" href="#" />
